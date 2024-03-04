@@ -1,0 +1,14 @@
+/*!
+ *   Custom development stylesheet
+ *   Author: Himanshu Sharma
+ *   Website: Interview Assignment
+ */
+.error-message{
+    color:#ff0000;
+}
+.form-error{
+    border-color: #ff0000;
+}
+.register-box {
+    width: 600px;
+}
